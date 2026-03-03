@@ -1,2 +1,2 @@
 # repo
-firt one
+first one
